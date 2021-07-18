@@ -21,3 +21,9 @@
 npm-debug.log*
 yarn-debug.log*
 yarn-error.log*
+
+/src/Components/icons
+
+/public/favicon_io2
+/public/Peach - DrawKit
+/public/Peach - DrawKit.zip

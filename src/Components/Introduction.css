@@ -1,0 +1,16 @@
+.introduction{
+    font-size: 2.3rem;
+    font-weight: 300;
+    margin:80px 150px 40px 80px;
+    line-height:1.8 ;
+}
+
+.name{
+    color:#284D16 ;
+    font-size: 2.3rem;
+    font-weight: 550;
+}
+
+.focus{
+    font-weight: 400;
+}

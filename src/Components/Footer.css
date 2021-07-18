@@ -1,0 +1,35 @@
+.footer{
+    
+    display: flex;
+    justify-content: space-between;
+    margin: 10px 20px 0 80px;
+}
+
+.copyright{
+    font-size: 1rem;
+    font-weight: 450;
+}
+
+.list{
+    display:flex;
+    list-style: none;
+}
+
+.listItem{
+    margin:0 15px 0 15px;
+    padding: 0 15px 0 15px;
+}
+
+.gmailicon{
+    -webkit-transform: perspective(1px) translateZ(0);
+    transform: perspective(1px) translateZ(0);
+    -webkit-transition-property: transform;
+    transition-property: transform 1s ease;
+    fill:"#000";
+}
+
+.gmailicon:hover{
+    -webkit-transform: scale(1.2);
+    transform: scale(1.2);   
+}
+

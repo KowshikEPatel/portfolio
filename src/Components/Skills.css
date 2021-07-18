@@ -1,0 +1,19 @@
+.skills{
+    font-size: 1.35rem;
+    margin:60px 0 0 80px;
+    display: flex;
+}
+
+.techicons{
+    display: flex;
+}
+
+.techname{
+    margin: 10px;
+    padding: 10px;
+}
+
+.techlogo{
+    margin: 10px;
+    padding: 10px;
+}
