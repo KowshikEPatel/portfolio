@@ -4,3 +4,9 @@
     margin-top: 60px;
     display: flex;
 }
+
+.otherprojects{
+    margin: 50px;
+    padding: 30px;
+    text-decoration: underline;
+}
