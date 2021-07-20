@@ -34,8 +34,8 @@ export default function Projects() {
                                 <div >{element['projectdescription']}</div>
                                 <div style={{display:'flex'}}>{element['projectlibraries'].map((e,index)=>{ return <div style={{border:"2px solid green",fontSize:'0.7rem',fontWeight:'510' ,margin:'3px',padding:'3px'}} key={index}>{e}</div> })}</div>
                                 <div style={{display:'flex'}}>
-                                    <div style={{margin:'0 5px 0 5px'}}><a href='https://github.com/KowshikEPatel/urlshortnerfe'><i className="fab fa-github"></i></a></div>
-                                    <div style={{margin:'0 5px 0 5px'}}><a href='https://friendly-feynman-57301c.netlify.app'><i className="fas fa-link"></i></a></div>
+                                    <div style={{margin:'0 5px 0 5px'}}><a target="_blank" href='https://github.com/KowshikEPatel/urlshortnerfe'><i className="fab fa-github"></i></a></div>
+                                    <div style={{margin:'0 5px 0 5px'}}><a target="_blank" href='https://friendly-feynman-57301c.netlify.app'><i className="fas fa-link"></i></a></div>
                                 </div>
                             </div>
                 })}
